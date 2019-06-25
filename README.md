@@ -1,2 +1,2 @@
 # apue
-Advanced Programming in Unix Environment
+Advanced Programming in the Unix Environment
